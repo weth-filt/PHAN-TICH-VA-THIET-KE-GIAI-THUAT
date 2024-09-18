@@ -31,4 +31,4 @@ int main() {
 // weight[] : là mảng lưu trọng lượng của các đối tượng
 // value[] : là mảng lưu gia trị của các đối tượng 
 // n là số lượng đối tượng
-// W là trọng lượng của tối tượng
+// W là trọng lượng của tối tượngcode VDU3.cpp
